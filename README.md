@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on most anything
 - 🤔 I’m looking for help with most everything
 - 💬 Ask me about Mozilla
-- 📫 How to reach me: <a rel="me" href="https://fosstodon.org/@pmac">Mastodon</a>
+- 📫 How to reach me: 
+  - <a rel="me" href="https://fosstodon.org/@pmac">Mastodon</a>
+  - [Bluesky](https://bsky.app/profile/pmac.io)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I own a tuba (among many other instruments)
